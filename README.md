@@ -1,2 +1,11 @@
 # bug-report
-Repository for bug reporting.
+
+## Environment
+
+## Steps to Reproduce
+
+## Expected Behavior
+
+## Actual Behavior
+
+## More Information
