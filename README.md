@@ -1,2 +1,7 @@
 # bug-report
-Repository for bug reporting.
+
+## Steps to Reproduce
+
+## Expected Behavior
+
+## Actual behavior
