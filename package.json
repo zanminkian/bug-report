@@ -3,6 +3,7 @@
   "type": "commonjs",
   "scripts": {},
   "devDependencies": {
+    "typescript": "^5.4.5",
     "vitest": "^1.4.0"
   }
 }
