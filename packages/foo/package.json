@@ -1,0 +1,10 @@
+{
+  "name": "foo",
+  "devDependencies": {
+    "@types/node": "22.10.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "npx tsx --test ./src/foo.spec.ts"
+  }
+}

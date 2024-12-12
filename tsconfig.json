@@ -1,0 +1,11 @@
+{
+  "include": ["${configDir}/src"],
+  "exclude": ["**/*.spec.ts","**/*.test.ts"],
+  "compilerOptions": {
+    "lib": ["ES2022"],
+    "target": "ES2022",
+    "module": "Node16",
+    "moduleResolution": "node16",
+    "outDir": "${configDir}/dist"
+  }
+}
