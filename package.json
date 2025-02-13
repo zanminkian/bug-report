@@ -4,5 +4,8 @@
   "packageManager": "pnpm@10.3.0",
   "engines": {
     "node": ">=18"
+  },
+  "dependencies": {
+    "foo": "workspace:*"
   }
 }
